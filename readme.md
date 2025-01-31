@@ -9,3 +9,6 @@ kali-dark-colorscheme-fixed is a tool that will fixed your missing kali-dark the
     sudo bash kali-dark-missing-fix.sh
     
     #after that you guys can change it to kali dark in your terminal > file > preferences > color-scheme
+
+## Result
+![image alt](![img alt](https://github.com/coolORANGE3/kali-dark-colorscheme-fix/blob/59788d0e7ac5ff14ed87f7731c4637808903cd42/kali-dark-scheme.png))
